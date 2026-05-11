@@ -1,8 +1,8 @@
-<h2 align="center">Hi, I'm Naoya 👋</h2>
+<h2 align="center">Hi, I'm Naoya</h2>
 
 <p align="center">
-  <b>Industrial Data Engineer × AI Solutions Builder</b><br/>
-  Predictive maintenance · Quality analytics · IIoT · ML pipelines
+  <b>Industrial Data Engineer x AI Solutions Builder</b><br/>
+  Predictive maintenance | Industrial IoT | ML pipelines | Quality analytics
 </p>
 
 <p align="center">
@@ -16,16 +16,33 @@
 
 ---
 
-I work where data, AI, and product reliability meet — building and operating
-predictive maintenance, quality analytics, and design-verification workflows
-for globally deployed precision instruments in regulated industries.
+I work where industrial data, AI, and product reliability meet: turning raw
+sensor and quality data into maintainable pipelines, predictive-maintenance
+models, and decision-support tools for production and service teams.
 
-### 🔭 Currently building
+My background is in globally deployed precision instruments, regulated
+industries, and cross-border R&D collaboration. I like projects where domain
+knowledge, data engineering, and practical ML have to meet in the same system.
 
-- **[predictive-maintenance-cmapss](https://github.com/eastani/predictive-maintenance-cmapss)** — end-to-end Python pipeline on NASA's CMAPSS turbofan dataset, with executed Jupyter notebooks showing every benchmark result.
-- **[portfolio](https://github.com/eastani/portfolio)** — bilingual (EN / JA) portfolio site, deployed on GitHub Pages.
+### Currently Building
 
-### 🛠️ Toolbox
+- **[predictive-maintenance-cmapss](https://github.com/eastani/predictive-maintenance-cmapss)** -
+  an end-to-end Python reference pipeline on NASA's CMAPSS turbofan dataset,
+  with strict data loading, feature engineering, RUL modelling, tests, CI, and
+  executed notebooks.
+- **[portfolio](https://github.com/eastani/portfolio)** -
+  a bilingual EN/JA portfolio site for industrial data engineering,
+  predictive maintenance, and AI solution work.
+
+### What I Can Help With
+
+- Designing sensor-data pipelines for industrial equipment and IIoT platforms
+- Building predictive-maintenance and anomaly-detection proof of concepts
+- Translating equipment-domain knowledge into usable ML features and data contracts
+- Creating dashboards and analysis workflows for quality, reliability, and service teams
+- Bridging technical communication across Japanese and English-speaking teams
+
+### Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -37,22 +54,16 @@ for globally deployed precision instruments in regulated industries.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 📈 What I focus on
+### Focus Areas
 
-- Turning raw industrial sensor data into decisions that hold up on the production floor
-- Bridging OT and IT in regulated, mission-critical industries
-- Cross-border collaboration with international R&amp;D partners (English-friendly)
-- Continuous learning: Kaggle, a graduate medical-AI programme, G-Test (JDLA), conference engagement
-
-### 📚 Continuous learning
-
-- 🎓 Graduate medical-AI programme (Tohoku University)
-- 🧪 Kaggle competitions
-- 🎯 G-Test (JDLA Generalist), TOEIC L&amp;R 830
-- 🎤 Active at medical AI &amp; computer-vision conferences
+- Predictive maintenance for rotating equipment and precision instruments
+- Industrial time-series analysis, feature engineering, and RUL modelling
+- Quality analytics and root-cause investigation using operational telemetry
+- Data contracts, reproducible notebooks, CI-tested Python packages, and dashboards
+- Continuous learning through Kaggle, graduate medical-AI study, and JDLA G-Test
 
 ---
 
 <p align="center">
-  <i>Open to Data Engineer / Data Scientist roles working on industrial AI and IIoT platforms.<br/>Casual chats are welcome.</i>
+  <i>Open to Data Engineer / Data Scientist roles and collaborations around industrial AI, IIoT platforms, and predictive maintenance.</i>
 </p>
